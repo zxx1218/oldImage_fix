@@ -31,10 +31,10 @@
 
 **注意：** 修复第一张图的时候耗时较长，大约10秒左右。从第二张图开始，速度就会快起来，大约5秒左右一张（这主要是因为为了节约服务器资源，第一次启动的时候模型需要加载进显卡中）
 
-<img src='imgs/gradio1.jpg'/>
+<img src='imgs/gradio1.png'/>
 
 
-<img src='imgs/gradio2.jpg'/>
+<img src='imgs/gradio2.png'/>
 
 ## 运行要求
 该代码需要在安装了Nvidia GPU和CUDA的计算机上运行，运行代码需要Python>=3.9。
