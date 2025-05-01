@@ -20,7 +20,7 @@
 
 👇
 
- **Web端在线体验地址：**:white_check_mark:[访问这里进行老照片修复在线体验](http://zxxserver.e3.luyouxia.net:12330):white_check_mark:
+ **Web端在线体验地址：**:white_check_mark:[访问这里进行老照片修复在线体验](http://zxxserver.w1.luyouxia.net/fixoldimg):white_check_mark:
 
 ☝
 **在线体验使用方式：**
